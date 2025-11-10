@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gt-api-32.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/geotools-32.0-bin/geotools-32.0/lib/gt-api-32.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
